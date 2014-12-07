@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "APK signatures."
 date:   2014-12-06 21:27:54
 categories: jekyll update
 ---
