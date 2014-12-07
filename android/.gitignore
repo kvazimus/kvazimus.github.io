@@ -2,8 +2,8 @@
 bin/
 gen/
 out/
-.idea/workspace.xml
-.idea/misc.xml
+workspace.xml
+misc.xml
 
 # Local configuration file (sdk path, etc)
 local.properties
