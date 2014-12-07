@@ -1,6 +1,5 @@
 # Site settings
 title: Insights about small problems.
-# description:
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://kvazimus.github.io" # the base hostname & protocol for your site
 twitter_username: kvazimus
@@ -8,4 +7,4 @@ github_username:  kvazimus
 
 # Build settings
 markdown: kramdown
-highlight: rogue
+highlight: pygments
